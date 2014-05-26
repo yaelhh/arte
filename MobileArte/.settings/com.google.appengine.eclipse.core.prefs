@@ -1,3 +1,13 @@
 eclipse.preferences.version=1
 googleCloudSqlEnabled=false
 localDevMySqlEnabled=true
+prodDatabaseName=bdarte
+prodDatabasePassword=
+prodDatabaseUser=y
+prodInstanceName=arte
+prodIsConfigured=true
+testDatabaseName=bdarte
+testDatabasePassword=arte2014
+testDatabaseUser=arte
+testInstanceName=iarte
+testIsConfigured=true
